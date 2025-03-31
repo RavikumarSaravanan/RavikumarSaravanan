@@ -1,10 +1,4 @@
- 👋 Hi, I’m @RavikumarSaravanan
- 👀 I’m interested in web development
- 🌱 I’m currently learning web development
- 💞️ I’m looking to collaborate
- 📫 Reach me on e-mail : ravikumarsaravanan71640@gmail.com
- 😄 Pronouns: He / Him
-  
+
 # 💫 About Me:
  👋 Hi, I’m @RavikumarSaravanan<br> 👀 I’m interested in web development<br> 🌱 I’m currently learning web development<br> 💞️ I’m looking to collaborate<br> 📫 Reach me on e-mail : ravikumarsaravanan71640@gmail.com<br> 😄 Pronouns: He / Him<br>  
 
